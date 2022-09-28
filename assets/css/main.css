@@ -464,7 +464,7 @@ input, select, textarea {
 	}
 
 	hr {
-		border-bottom-color: rgba(0, 0, 0, 0.3);
+		border-bottom-color: rgba(0, 0, 0, 0.2);
 	}
 
 /* Row */
@@ -7222,8 +7222,8 @@ input, select, textarea {
 			#wrapper > .invert button,
 			#wrapper > .invert .button {
 				background-color: transparent;
-				box-shadow: inset 0 0 0 1px white;
-				color: #ffffff !important;
+				box-shadow: inset 0 0 0 1px #CCB193;
+				color: #CCB193 !important;
 			}
 
 				#wrapper > .invert input[type="submit"]:hover,
@@ -7250,7 +7250,7 @@ input, select, textarea {
 				#wrapper > .invert input[type="button"].primary,
 				#wrapper > .invert button.primary,
 				#wrapper > .invert .button.primary {
-					background-color: #ffffff;
+					background-color: #CCB193;
 					box-shadow: none;
 					color: #000000 !important;
 				}
