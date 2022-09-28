@@ -451,7 +451,7 @@ input, select, textarea {
 
 		a:hover {
 			color: #000000;
-			border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 		}
 
 	blockquote {
@@ -7188,7 +7188,7 @@ input, select, textarea {
 
 				#wrapper > .invert a:hover {
 					color: #ffffff;
-					border-bottom: 1px solid rgba(255, 255, 255, 1);
+					border-bottom: 1px solid rgba(255, 255, 255, 0.6);
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
